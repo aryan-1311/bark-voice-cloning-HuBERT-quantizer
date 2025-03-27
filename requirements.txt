@@ -1,5 +1,4 @@
 audiolm-pytorch==1.1.4
-fairseq
 huggingface-hub
 sentencepiece
 transformers
